@@ -1,0 +1,10 @@
+[package]
+name = "yamf-handshake"
+version = "0.1.0"
+authors = ["AljoschaMeyer <mail@aljoscha-meyer.de>"]
+description = "Self-describing handshakes."
+repository = "https://github.com/AljoschaMeyer/yamf-handshake-rs"
+readme = "README.md"
+license = "AGPL-3.0"
+
+[dependencies]
